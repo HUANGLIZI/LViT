@@ -5,7 +5,7 @@ This repo is the official implementation of "**LViT: Language meets Vision Trans
 
 [Paper Link](https://arxiv.org/abs/2206.14718)
 
-![image](https://github.com/HUANGLIZI/LViT/blob/main/IMG/LViT.png)
+![image](https://github.com/HUANGLIZI/LViT/blob/main/IMG/LViT.png/resize,p_80)
 
 ## Requirements
 
