@@ -80,7 +80,7 @@ python train_model.py
 #### 3.1. Get Pre-trained Models
 Here, we provide pre-trained weights on QaTa-COV19 and MoNuSeg, if you do not want to train the models by yourself, you can download them in the following links:
 
-*(Note: Due to double-blind requirements, the pre-trained model will be released in the future.)*
+*(Note: the pre-trained model will be released in the future.)*
 
 * QaTa-COV19: 
 * MoNuSeg: 
