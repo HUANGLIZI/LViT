@@ -3,9 +3,9 @@
 
 This repo is the official implementation of "**LViT: Language meets Vision Transformer in Medical Image Segmentation**" 
 
-Paper Link: https://arxiv.org/abs/2206.14718
+[Paper Link](https://arxiv.org/abs/2206.14718)
 
-![image](https://github.com/HUANGLIZI/LViT/blob/main/IMG/LViT.jpg)
+![image](https://github.com/HUANGLIZI/LViT/blob/main/IMG/LViT.png)
 
 ## Requirements
 
