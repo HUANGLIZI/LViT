@@ -1,5 +1,6 @@
 absl-py==0.13.0
 albumentations==0.5.2
+bert-embedding
 cached-property==1.5.2
 certifi==2021.5.30
 contextlib2==21.6.0
@@ -50,4 +51,3 @@ tqdm==4.61.2
 xlrd==1.2.0
 yacs==0.1.8
 scikit-learn==1.0.2
-bert-embedding
