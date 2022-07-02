@@ -20,7 +20,7 @@ mkl-service==2.4.0
 ml-collections==0.1.0
 munch==2.5.0
 networkx==2.6.3
-numpy
+numpy==1.17.5
 opencv-python==4.5.5.62
 opencv-python-headless==4.5.5.62
 pandas==1.1.5
@@ -50,3 +50,4 @@ tqdm==4.61.2
 xlrd==1.2.0
 yacs==0.1.8
 scikit-learn==1.0.2
+bert-embedding
