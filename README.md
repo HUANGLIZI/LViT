@@ -12,7 +12,7 @@ Install from the ```requirements.txt``` using:
 ```angular2html
 pip install -r requirements.txt
 ```
-Questions about NumPy version conflict. The NumPy version I use is 1.17.5. We can install bert-embedding first, and install NumPy then.
+Questions about NumPy version conflict. The NumPy version  use is 1.17.5. We can install bert-embedding first, and install NumPy then.
 
 ## Usage
 
