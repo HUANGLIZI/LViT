@@ -107,6 +107,14 @@ You can get the Dice and IoU scores and the visualization results.
 | MoNuSeg    | LViT-T     	       | 80.36    | 67.31   |
 | MoNuSeg    | LViT-T w/o pretrain | 79.98    | 66.83   |
 
+#### 4.1. More Results about other datasets
+
+| Dataset    | 	   Model Name 	   | Dice (%) | IoU (%) |
+| ---------- | ------------------- | -------- | ------- |
+| BKAI       | LViT-TW    	       | -----    | -----    |
+| CVC_ClinicDB | LViT-TW    	       | -----    | -----    |
+| Kvasir-SEG   | LViT-TW    	       | -----    | -----    |
+| Kvasir-sessile | LViT-TW    	       | -----    | -----    |
 
 
 ### 5. Reproducibility
