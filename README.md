@@ -111,10 +111,10 @@ You can get the Dice and IoU scores and the visualization results.
 
 | Dataset    | 	   Model Name 	   | Dice (%) | IoU (%) |
 | ---------- | ------------------- | -------- | ------- |
-| [BKAI](https://www.kaggle.com/competitions/bkai-igh-neopolyp/data)       | LViT-TW    	       | -----    | -----    |
-| [CVC-ClinicDB](https://www.dropbox.com/s/p5qe9eotetjnbmq/CVC-ClinicDB.rar?dl=0) | LViT-TW    	       | -----    | -----    |
-| [Kvasir-SEG](https://datasets.simula.no/downloads/kvasir-seg.zip)   | LViT-TW    	       | -----    | -----    |
-| [Kvasir-Sessile](https://datasets.simula.no/downloads/kvasir-sessile.zip) | LViT-TW    	       | -----    | -----    |
+| [BKAI](https://www.kaggle.com/competitions/bkai-igh-neopolyp/data)       | LViT-LW    	       | -----    | -----    |
+| [CVC-ClinicDB](https://www.dropbox.com/s/p5qe9eotetjnbmq/CVC-ClinicDB.rar?dl=0) | LViT-LW    	       | -----    | -----    |
+| [Kvasir-SEG](https://datasets.simula.no/downloads/kvasir-seg.zip)   | LViT-LW    	       | -----    | -----    |
+| [Kvasir-Sessile](https://datasets.simula.no/downloads/kvasir-sessile.zip) | LViT-LW    	       | -----    | -----    |
 
 
 ### 5. Reproducibility
