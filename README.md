@@ -112,7 +112,7 @@ You can get the Dice and IoU scores and the visualization results.
 | Dataset    | 	   Model Name 	   | Dice (%) | IoU (%) |
 | ---------- | ------------------- | -------- | ------- |
 | [BKAI](https://www.kaggle.com/competitions/bkai-igh-neopolyp/data)       | LViT-LW    	       | 92.07  | 80.93    |
-| [ZJU-NBSH] | LViT-LW    	       | -----    | -----    |
+| ZJU-NBSH | LViT-LW    	       | -----    | -----    |
 
 
 ### 5. Reproducibility
