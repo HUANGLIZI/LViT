@@ -135,7 +135,7 @@ See https://pytorch.org/docs/stable/notes/randomness.html for more details.
 ```bash
 @article{Li2022LViT,
   title={LViT: Language meets Vision Transformer in Medical Image Segmentation},
-  author = {Li, Zihan and Li, Yunxiang and Li, Qingde and Zhang, You and Wang, Puyang and Guo, Dazhou and Lu, Le and Jin, Dakai and Hong, Qingqi},
+  author = {Li, Zihan and Li, Yunxiang and Li, Qingde and Wang, Puyang and Zhang, You and Guo, Dazhou and Lu, Le and Jin, Dakai and Hong, Qingqi},
   journal={arXiv preprint arXiv:2206.14718},
   year={2022}
 }
