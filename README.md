@@ -23,7 +23,7 @@ The original data can be downloaded in following links:
 
 * MoNuSeG Dataset - [Link (Original)](https://monuseg.grand-challenge.org/Data/)
 
-  *(Note: The text annotation of QaTa-COV19 train dataset will be released in the future.)*
+  *(Note: The text annotation of QaTa-COV19 train dataset [download link](https://1drv.ms/x/s!AihndoV8PhTDkm5jsTw5dX_RpuRr?e=uaZq6W).)*
 
 #### 1.2. Format Preparation
 
