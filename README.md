@@ -17,15 +17,19 @@ Questions about NumPy version conflict. The NumPy version we use is 1.17.5. We c
 ## Usage
 
 ### 1. Data Preparation
-#### 1.1. QaTa-COV19 and MoNuSeg Datasets
+#### 1.1. QaTa-COV19, MosMedData+ and MoNuSeg Datasets (demo dataset)
 The original data can be downloaded in following links:
 * QaTa-COV19 Dataset - [Link (Original)](https://www.kaggle.com/datasets/aysendegerli/qatacov19-dataset)
 
-* MoNuSeG Dataset - [Link (Original)](https://monuseg.grand-challenge.org/Data/)
+* MosMedData+ Dataset - [Link (Original)](http://medicalsegmentation.com/covid19/)
+
+* MoNuSeG Dataset (demo dataset) - [Link (Original)](https://monuseg.grand-challenge.org/Data/)
 
   *(Note: The text annotation of QaTa-COV19 train and val datasets [download link](https://1drv.ms/x/s!AihndoV8PhTDkm5jsTw5dX_RpuRr?e=uaZq6W).)*
   
-  *If you use the dataset provided by us, please cite the LViT.*
+  *(Note: The text annotation of MosMedData+ dataset will be released in the future.)*
+  
+  *If you use the datasets provided by us, please cite the LViT.*
 
 #### 1.2. Format Preparation
 
@@ -33,7 +37,7 @@ Then prepare the datasets in the following format for easy use of the code:
 
 ```angular2html
 ├── datasets
-    ├── Covid19
+    ├── QaTa-Covid19
     │   ├── Test_Folder
     |   |   ├── Test_text.xlsx
     │   │   ├── img
@@ -46,7 +50,7 @@ Then prepare the datasets in the following format for easy use of the code:
     |	    ├── Val_text.xlsx
     │       ├── img
     │       └── labelcol
-    └── MoNuSeg
+    └── MosMedDataPlus
         ├── Test_Folder
         |   ├── Test_text.xlsx
         │   ├── img
