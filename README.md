@@ -113,8 +113,8 @@ You can get the Dice and IoU scores and the visualization results.
 
 | Dataset    | 	   Model Name 	   | Dice (%) | IoU (%) |
 | ---------- | ------------------- | -------- | ------- |
-| [BKAI-Poly](https://www.kaggle.com/competitions/bkai-igh-neopolyp/data)       | LViT-LW    	       | 92.07  | 80.93    |
-| ESO-CT | LViT-LW    	       | 68.27    | 57.02    |
+| [BKAI-Poly](https://www.kaggle.com/competitions/bkai-igh-neopolyp/data)       | LViT-TW    	       | 92.07  | 80.93    |
+| ESO-CT | LViT-TW    	       | 68.27    | 57.02    |
 
 
 ### 5. Reproducibility
