@@ -107,6 +107,8 @@ You can get the Dice and IoU scores and the visualization results.
 | ---------- | ------------------- | -------- | ------- |
 | QaTa-COV19 | U-Net      	       | 79.02    | 69.46   |
 | QaTa-COV19 | LViT-T     	       | 83.66    | 75.11   |
+| MosMedData+ | U-Net      	       | 64.60    |  50.73   |
+| MosMedData+ | LViT-T     	       | 74.57    |  61.33   |
 | MoNuSeg    | U-Net      	       | 76.45    | 62.86   |
 | MoNuSeg    | LViT-T     	       | 80.36    | 67.31   |
 | MoNuSeg    | LViT-T w/o pretrain | 79.98    | 66.83   |
