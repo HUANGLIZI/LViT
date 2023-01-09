@@ -147,3 +147,7 @@ See https://pytorch.org/docs/stable/notes/randomness.html for more details.
   year={2022}
 }
 ```
+
+[![Stargazers repo roster for @HUANGLIZI/LViT](https://reporoster.com/stars/HUANGLIZI/LViT)](https://github.com/HUANGLIZI/LViT/stargazers)
+
+[![Forkers repo roster for @HUANGLIZI/LViT](https://reporoster.com/forks/HUANGLIZI/LViT)](https://github.com/HUANGLIZI/LViT/network/members)
