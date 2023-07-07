@@ -23,11 +23,12 @@ The original data can be downloaded in following links:
 
 * MosMedData+ Dataset - [Link (Original)](http://medicalsegmentation.com/covid19/)
 
-* ESO-CT Dataset [1][2]
-
 * MoNuSeG Dataset (demo dataset) - [Link (Original)](https://monuseg.grand-challenge.org/Data/)
 
+* ESO-CT Dataset [1][2]
+
 [1] Jin, Dakai, et al. "DeepTarget: Gross tumor and clinical target volume segmentation in esophageal cancer radiotherapy." Medical Image Analysis 68 (2021): 101909.
+
 [2] Ye, Xianghua, et al. "Multi-institutional validation of two-streamed deep learning method for automated delineation of esophageal gross tumor volume using planning CT and FDG-PET/CT." Frontiers in Oncology 11 (2022): 785788.
 
 The text annotation of QaTa-COV19 has been released!
