@@ -25,7 +25,7 @@ The original data can be downloaded in following links:
 
 * MoNuSeG Dataset (demo dataset) - [Link (Original)](https://monuseg.grand-challenge.org/Data/)
 
-* ESO-CT Dataset [1][2]
+* ESO-CT Dataset [1] [2]
 
 [1] Jin, Dakai, et al. "DeepTarget: Gross tumor and clinical target volume segmentation in esophageal cancer radiotherapy." Medical Image Analysis 68 (2021): 101909.
 
