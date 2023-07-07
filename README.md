@@ -23,7 +23,12 @@ The original data can be downloaded in following links:
 
 * MosMedData+ Dataset - [Link (Original)](http://medicalsegmentation.com/covid19/)
 
+* ESO-CT Dataset [1][2]
+
 * MoNuSeG Dataset (demo dataset) - [Link (Original)](https://monuseg.grand-challenge.org/Data/)
+
+[1] Jin, Dakai, et al. "DeepTarget: Gross tumor and clinical target volume segmentation in esophageal cancer radiotherapy." Medical Image Analysis 68 (2021): 101909.
+[2] Ye, Xianghua, et al. "Multi-institutional validation of two-streamed deep learning method for automated delineation of esophageal gross tumor volume using planning CT and FDG-PET/CT." Frontiers in Oncology 11 (2022): 785788.
 
 The text annotation of QaTa-COV19 has been released!
 
@@ -143,11 +148,12 @@ See https://pytorch.org/docs/stable/notes/randomness.html for more details.
 ## Citation
 
 ```bash
-@article{Li2022LViT,
-  title={LViT: Language meets Vision Transformer in Medical Image Segmentation},
-  author = {Li, Zihan and Li, Yunxiang and Li, Qingde and Wang, Puyang and Zhang, You and Guo, Dazhou and Lu, Le and Jin, Dakai and Hong, Qingqi},
-  journal={arXiv preprint arXiv:2206.14718},
-  year={2022}
+@article{li2023lvit,
+  title={Lvit: language meets vision transformer in medical image segmentation},
+  author={Li, Zihan and Li, Yunxiang and Li, Qingde and Wang, Puyang and Guo, Dazhou and Lu, Le and Jin, Dakai and Zhang, You and Hong, Qingqi},
+  journal={IEEE Transactions on Medical Imaging},
+  year={2023},
+  publisher={IEEE}
 }
 ```
 
