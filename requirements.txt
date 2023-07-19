@@ -51,4 +51,3 @@ torchinfo
 tqdm==4.61.2
 xlrd==1.2.0
 yacs==0.1.8
-scikit-learn==1.0.2
