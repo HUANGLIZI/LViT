@@ -8,7 +8,7 @@ This repo is the official implementation of "**LViT: Language meets Vision Trans
 
 ## Requirements
 
-Install from the ```requirements.txt``` using:
+Python == 3.7 and install from the ```requirements.txt``` using:
 ```angular2html
 pip install -r requirements.txt
 ```
