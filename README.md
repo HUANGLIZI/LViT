@@ -97,12 +97,8 @@ python train_model.py
 
 
 ### 3. Evaluation
-#### 3.1. Get Pre-trained Models
-Here, we provide pre-trained weights on QaTa-COV19 and MoNuSeg, if you do not want to train the models by yourself, you can download them in the following links:
 
-*(Note: the pre-trained model will be released in the future.)*
-
-#### 3.2. Test the Model and Visualize the Segmentation Results
+#### 3.1. Test the Model and Visualize the Segmentation Results
 First, change the session name in ```Config.py``` as the training phase. Then run:
 ```angular2html
 python test_model.py
