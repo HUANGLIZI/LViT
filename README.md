@@ -37,9 +37,11 @@ The text annotation of QaTa-COV19 has been released!
   The partition of train set and val set of QaTa-COV19 dataset [download link](https://1drv.ms/u/s!AihndoV8PhTDgt82Do5kj33mUee33g?e=kzWl8y).
   The text annotation of QaTa-COV19 test dataset [download link](https://1drv.ms/x/s!AihndoV8PhTDkj1vvvLt2jDCHqiM?e=954uDF).)*
 
-  *(Note: The contrastive label is available in the repo.)*
+  ***(Note: The contrastive label is available in the repo.)***
   
-  *(Note: The text annotation of MosMedData+ dataset will be released in the future.)*
+***(Note: The text annotation of MosMedData+ train dataset [download link](https://1drv.ms/x/s!AihndoV8PhTDguIIKCRfYB9Z0NL8Dw?e=8rj6rY).
+The text annotation of MosMedData+ val dataset [download link](https://1drv.ms/u/s!AihndoV8PhTDguIGtAgZiRQFYfsAjw?e=tqowkJ).
+The text annotation of MosMedData+ test dataset [download link](https://1drv.ms/u/s!AihndoV8PhTDguIHdHkwXMxGlgU9Tg?e=PbcllF).)***
   
   *If you use the datasets provided by us, please cite the LViT.*
 
