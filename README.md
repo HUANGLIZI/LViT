@@ -21,7 +21,7 @@ Questions about NumPy version conflict. The NumPy version we use is 1.17.5. We c
 The original data can be downloaded in following links:
 * QaTa-COV19 Dataset - [Link (Original)](https://www.kaggle.com/datasets/aysendegerli/qatacov19-dataset)
 
-* MosMedData+ Dataset - [Link (Original)](http://medicalsegmentation.com/covid19/)
+* MosMedData+ Dataset - [Link (Original)](http://medicalsegmentation.com/covid19/) or [Kaggle](https://www.kaggle.com/datasets/maedemaftouni/covid19-ct-scan-lesion-segmentation-dataset)
 
 * MoNuSeG Dataset (demo dataset) - [Link (Original)](https://monuseg.grand-challenge.org/Data/)
 
