@@ -1,4 +1,4 @@
-# CPAM_CLIP_VGG_LViT
+# CPAM_CLIP_VGG_LViT_Text-Guided Cross-Position Attention for Segmentation：Case of Medical Image
 
 This repo is not the official implementation of "**Text-Guided Cross-Position Attention for Segmentation: Case of Medical Image**" 
 And I used the CLIP and VGG models to reproduce this paper.
