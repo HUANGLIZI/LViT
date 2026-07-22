@@ -42,7 +42,9 @@ The text annotation of QaTa-COV19 has been released!
 ***(Note: The text annotation of MosMedData+ train dataset [download link](https://1drv.ms/x/s!AihndoV8PhTDguIIKCRfYB9Z0NL8Dw?e=8rj6rY).
 The text annotation of MosMedData+ val dataset [download link](https://1drv.ms/x/c/c3143e7c85766728/QShndoV8PhQggMMGsQAAAAAAtAgZiRQFYfsAjw).
 The text annotation of MosMedData+ test dataset [download link](https://1drv.ms/x/c/c3143e7c85766728/QShndoV8PhQggMMHsQAAAAAAdHkwXMxGlgU9Tg).)***
-  
+
+***Google Drive for the above datasets [download link](https://drive.google.com/drive/folders/1BjkeVIYwiV4d94AMDZfBtIk_7MNIb2AH?usp=sharing)***
+
   *If you use the datasets provided by us, please cite the LViT.*
 
 #### 1.2. Format Preparation
